@@ -1,1 +1,1 @@
-<h1>create a Student name Grade and attendance With JavaScript </h1>
+<h1>Create a Student Name Grade and Attendance With JavaScript </h1>
