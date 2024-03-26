@@ -151,7 +151,7 @@
 // // //         break;
 // // //     }
 // // //     console.log(userInp, targetNum);
-// // // }
+// // // 
 
 // // /////Gaming of number //
 // // var targetNum = Math.floor(Math.random() * 10) + 1;
@@ -202,16 +202,8 @@
 
 
 //practice of grade //
-let score = 90;
+let score =  prompt("Enter Youre Score (0-100):");
 let grade;
-let student2 = "danyal";
-alert(student2);
-let atendance2 = 28;
-if (atendance2 <= 26) {
-    alert("Good Profmence");
-    alert("good Profammence");
-}
-
 
 if (score >= 90 && score <= 100) {
     grade = "A";
